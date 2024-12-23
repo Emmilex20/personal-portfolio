@@ -7,7 +7,7 @@ import proj4 from "../assets/project.png";
 
 const projects = [
   {
-    title: "Ecommerce Hair Products",
+    title: "E-commerce Hair Products",
     desc: "A modern, responsive e-commerce platform for hair products, featuring dynamic product listings, a shopping cart with real-time price updates, secure Stripe payment integration, and a sleek UI. Built with React, Tailwind CSS, Node.js, MongoDB, and Redux Toolkit, this project demonstrates expertise in creating user-friendly and functional e-commerce solutions.",
     devStack: "MongoDB, Express, React, Node.js",
     link: "https://complete-hair-client-app.vercel.app/",
