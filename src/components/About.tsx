@@ -1,22 +1,9 @@
 import React from 'react';
-import Image from "next/image";
+import InfoCard from './InfoCard';  // Assuming you have this in the same folder
 import book from "../assets/book.png";
 import pc from "../assets/pc.png";
 import card from "../assets/card.png";
 import finance from "../assets/finance.png";
-
-const InfoCard = ({ image, title, description }) => (
-  <div className="w-full md:w-[95%] relative bg-white/10 backdrop-blur-lg border border-white/20 rounded-xl overflow-hidden">
-    <div className="absolute inset-0 bg-gradient-to-r from-orange-400 via-purple-700 to-orange-800 opacity-30 animate-gradient-xy"></div>
-    <div className="flex flex-row p-6">
-      <Image src={image} alt={title} className="w-auto h-[130px]" />
-      <div className="flex flex-col mt-4">
-        <h2 className="text-2xl font-bold text-white/80 mb-2">{title}</h2>
-        <p className="text-lg text-white/70">{description}</p>
-      </div>
-    </div>
-  </div>
-);
 
 const About = () => {
   return (
@@ -44,7 +31,7 @@ const About = () => {
           <InfoCard
             image={card}
             title="Experience"
-            description="I have diverse portfolio of projects"
+            description="I have a diverse portfolio of projects"
           />
         </div>
         <div className="md:col-span-5">
