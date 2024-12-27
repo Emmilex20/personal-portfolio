@@ -18,8 +18,8 @@ const projects = [
     title: "Interactive E-learning Platform",
     desc: "A responsive and user-friendly platform for engaging online learning experiences, featuring interactive courses, quizzes, and progress tracking. Built with Next.js and Tailwind CSS, this project highlights expertise in creating modern, scalable, and intuitive e-learning solutions.",
     devStack: "Next.js, Tailwind",
-    link: "#",
-    git: "#",
+    link: "https://e-learning-website-beige.vercel.app/",
+    git: "https://github.com/Emmilex20/E-learning_website",
     src: proj2,
   },
   {
