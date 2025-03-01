@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import proj2 from "../assets/proj2.jpg";
 import proj3 from "../assets/proj3.png";
 import proj4 from "../assets/project.png";
+import TodoImg from "../assets/To-do.jpg";
 
 const projects = [
   {
@@ -30,6 +31,14 @@ const projects = [
     git: "#",
     src: proj3,
   },
+  {
+    "title": "To-Do App",
+    "desc": "A beautifully designed and intuitive task management application built with React. This app allows users to add, complete, and delete tasks with a seamless UI, real-time updates, and smooth animations. Styled with modern CSS techniques, it offers a clean, responsive experience across all devices.",
+    "devStack": "React",
+    "link": "https://todo-list-kappa-ebon.vercel.app/",
+    "git": "https://github.com/Emmilex20/Todo-list",
+    "src": TodoImg,
+},
 ];
 
 const Portfolio = () => {
