@@ -44,7 +44,7 @@ const projects = [
     "title": "Weather App",
     "desc": "A beautifully designed and intuitive weather application built with React. This app provides real-time weather updates, including temperature, humidity, and wind speed, for any location worldwide. With a sleek and responsive UI, users can easily search for cities and get accurate forecasts. Styled with modern CSS techniques, the app ensures a smooth and engaging user experience.",
     "devStack": "React",
-    "link": "weather-app-eta-seven-28.vercel.app/",
+    "link": "weather-app-eta-seven-28.vercel.app",
     "git": "https://https://github.com/Emmilex20/Weather-App",
     "src": WeatherImg,
 },
