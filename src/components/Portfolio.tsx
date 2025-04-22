@@ -6,7 +6,7 @@ import proj3 from "../assets/proj3.png";
 import proj4 from "../assets/project.png";
 import TodoImg from "../assets/To-do.jpg";
 import WeatherImg from "../assets/Weather-img.jpg";
-import project6 from "../assets/project6.png";
+import Project6 from "../assets/Project6.png";
 
 const projects = [
   {
@@ -55,7 +55,7 @@ const projects = [
     "devStack": "React",
     "link": "https://emmycode-ai.vercel.app/",
     "git": "https://github.com/Emmilex20/emmycode-ai",
-    "src": project6,
+    "src": Project6,
 },
 ];
 
