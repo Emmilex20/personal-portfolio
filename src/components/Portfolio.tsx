@@ -6,7 +6,7 @@ import proj3 from "../assets/proj3.png";
 import proj4 from "../assets/project.png";
 import TodoImg from "../assets/To-do.jpg";
 import WeatherImg from "../assets/Weather-img.jpg";
-import AiPro from "../assets/Ai-pro.png";
+import AiPro from "../assets/Ai-pro.jpg";
 
 const projects = [
   {
