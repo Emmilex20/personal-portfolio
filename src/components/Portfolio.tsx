@@ -6,6 +6,7 @@ import proj3 from "../assets/proj3.png";
 import proj4 from "../assets/project.png";
 import TodoImg from "../assets/To-do.jpg";
 import WeatherImg from "../assets/Weather-img.jpg";
+import project6 from "../assets/project6.png";
 
 const projects = [
   {
@@ -45,8 +46,16 @@ const projects = [
     "desc": "A beautifully designed and intuitive weather application built with React. This app provides real-time weather updates, including temperature, humidity, and wind speed, for any location worldwide. With a sleek and responsive UI, users can easily search for cities and get accurate forecasts. Styled with modern CSS techniques, the app ensures a smooth and engaging user experience.",
     "devStack": "React",
     "link": "https://weather-app-eta-seven-28.vercel.app",
-    "git": "https://https://github.com/Emmilex20/Weather-App",
+    "git": "https://github.com/Emmilex20/Weather-App",
     "src": WeatherImg,
+},
+  {
+    "title": "AI Fitness-Trainer App",
+    "desc": "An intelligent and interactive fitness-trainer web application built with Next.js, designed to deliver personalized workout guidance and health insights. The app utilizes AI to recommend exercises tailored to user preferences, goals, and fitness levels, while offering real-time feedback and progress tracking. Featuring a sleek, modern, and responsive interface, the application ensures a smooth and engaging user experience across all devices. Styled with advanced CSS techniques and optimized through Next.js capabilities, it seamlessly combines performance, functionality, and visual appeal for a comprehensive digital fitness journey.",
+    "devStack": "React",
+    "link": "https://emmycode-ai.vercel.app/",
+    "git": "https://github.com/Emmilex20/emmycode-ai",
+    "src": project6,
 },
 ];
 
