@@ -6,7 +6,7 @@ import proj3 from "../assets/proj3.png";
 import proj4 from "../assets/project.png";
 import TodoImg from "../assets/To-do.jpg";
 import WeatherImg from "../assets/Weather-img.jpg";
-import Project6 from "../assets/Project6.png";
+import AiPro from "../assets/Ai-pro.png";
 
 const projects = [
   {
@@ -52,10 +52,10 @@ const projects = [
   {
     "title": "AI Fitness-Trainer App",
     "desc": "An intelligent and interactive fitness-trainer web application built with Next.js, designed to deliver personalized workout guidance and health insights. The app utilizes AI to recommend exercises tailored to user preferences, goals, and fitness levels, while offering real-time feedback and progress tracking. Featuring a sleek, modern, and responsive interface, the application ensures a smooth and engaging user experience across all devices. Styled with advanced CSS techniques and optimized through Next.js capabilities, it seamlessly combines performance, functionality, and visual appeal for a comprehensive digital fitness journey.",
-    "devStack": "React",
+    "devStack": "NextJs",
     "link": "https://emmycode-ai.vercel.app/",
     "git": "https://github.com/Emmilex20/emmycode-ai",
-    "src": Project6,
+    "src": AiPro,
 },
 ];
 
