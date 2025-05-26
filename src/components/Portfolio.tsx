@@ -14,7 +14,7 @@ const projects = [
     title: "Advanced Calculator",
     desc: "This project is a modern calculator application designed with a stylish glassmorphism user interface, featuring smooth gradients, transparency, and blur effects to create an elegant and visually appealing experience. It is built using pure HTML, CSS, and JavaScript, and includes functionality for basic arithmetic calculations along with a light and dark mode toggle to enhance usability. The calculator is fully responsive, ensuring it works seamlessly across all device sizes, from desktops to mobile screens. Interactive button animations and a copy-to-clipboard feature add to the overall user-friendly design, showcasing my skills in front-end development and UI design.",
     devStack: "HTML, CSS, JavaScript",
-    link: "https://advanced-calculator-ten.vercel.app//",
+    link: "https://advanced-calculator-ten.vercel.app/",
     git: "https://github.com/Emmilex20/Advanced-Calculator",
     src: calculator,
   },
