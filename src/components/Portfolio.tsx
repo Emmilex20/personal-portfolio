@@ -7,8 +7,17 @@ import proj4 from "../assets/project.png";
 import TodoImg from "../assets/To-do.jpg";
 import WeatherImg from "../assets/Weather-img.jpg";
 import AiPro from "../assets/Ai-pro.jpg";
+import calculator from "../assets/calculator.jpg"
 
 const projects = [
+  {
+    title: "Advanced Calculator",
+    desc: "This project is a modern calculator application designed with a stylish glassmorphism user interface, featuring smooth gradients, transparency, and blur effects to create an elegant and visually appealing experience. It is built using pure HTML, CSS, and JavaScript, and includes functionality for basic arithmetic calculations along with a light and dark mode toggle to enhance usability. The calculator is fully responsive, ensuring it works seamlessly across all device sizes, from desktops to mobile screens. Interactive button animations and a copy-to-clipboard feature add to the overall user-friendly design, showcasing my skills in front-end development and UI design.",
+    devStack: "HTML, CSS, JavaScript",
+    link: "https://advanced-calculator-ten.vercel.app//",
+    git: "https://github.com/Emmilex20/Advanced-Calculator",
+    src: calculator,
+  },
   {
     title: "E-commerce Hair Products",
     desc: "A modern, responsive e-commerce platform for hair products, featuring dynamic product listings, a shopping cart with real-time price updates, secure Stripe payment integration, and a sleek UI. Built with React, Tailwind CSS, Node.js, MongoDB, and Redux Toolkit, this project demonstrates expertise in creating user-friendly and functional e-commerce solutions.",
