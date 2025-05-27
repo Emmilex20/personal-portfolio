@@ -8,6 +8,7 @@ import TodoImg from "../assets/To-do.jpg";
 import WeatherImg from "../assets/Weather-img.jpg";
 import AiPro from "../assets/Ai-pro.jpg";
 import calculator from "../assets/calculator.jpg"
+import quiz from "../assets/quiz.jpg"
 
 const projects = [
   {
@@ -17,6 +18,14 @@ const projects = [
     link: "https://advanced-calculator-ten.vercel.app/",
     git: "https://github.com/Emmilex20/Advanced-Calculator",
     src: calculator,
+  },
+  {
+    title: "Quiz App",
+    desc: "An interactive quiz application built with React that challenges users with timed multiple-choice questions. Users can choose the number of questions they wish to attempt, receive instant feedback on their answers, and view detailed explanations for each question. The app tracks correct and wrong answers, displays a progress bar and countdown timer, and celebrates completion with a confetti animation. Clean UI, intuitive flow, and responsive design make it ideal for both learning and fun.",
+    devStack: "React, TailwindCSS",
+    link: "https://quiz-app-2n35.vercel.app/",
+    git: "https://github.com/Emmilex20/Quiz-app",
+    src: quiz,
   },
   {
     title: "E-commerce Hair Products",
