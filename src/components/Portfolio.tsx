@@ -9,6 +9,7 @@ import WeatherImg from "../assets/Weather-img.jpg";
 import AiPro from "../assets/Ai-pro.jpg";
 import calculator from "../assets/calculator.jpg"
 import quiz from "../assets/quiz.jpg"
+import clock from "../assets/clock.jpg"
 
 const projects = [
   {
@@ -18,6 +19,14 @@ const projects = [
     link: "https://advanced-calculator-ten.vercel.app/",
     git: "https://github.com/Emmilex20/Advanced-Calculator",
     src: calculator,
+  },
+  {
+    title: "Digital Clock Timer",
+    desc: "This Multi Countdown Timer Web App is a dynamic and intuitive tool built with HTML, CSS, and vanilla JavaScript, designed to manage multiple countdowns simultaneously. Each timer can be individually labeled, started, paused, or reset, offering users complete control over their time management. The app supports desktop notifications and sound alerts to notify users when a timer ends, and it automatically saves all timer states using localStorage, allowing them to resume even after a page refresh. Users can toggle between light and dark themes for a personalized experience and view a detailed history of completed timers. Additionally, the app includes features to export and import countdown history, making it easy to back up or transfer data. With a clean, responsive interface and practical functionality, this project showcases strong frontend skills, effective use of browser APIs, and a focus on user-centric design.",
+    devStack: "HTML, CSS, JavaScript",
+    link: "https://digital-clock-timer-five.vercel.app/",
+    git: "https://github.com/Emmilex20/Digital-clock-timer",
+    src: clock,
   },
   {
     title: "Quiz App",
