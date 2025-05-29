@@ -10,6 +10,7 @@ import AiPro from "../assets/Ai-pro.jpg";
 import calculator from "../assets/calculator.jpg"
 import quiz from "../assets/quiz.jpg"
 import clock from "../assets/clock.jpg"
+import imageCarousel from "../assets/imageCarousel.png"
 
 const projects = [
   {
@@ -35,6 +36,14 @@ const projects = [
     link: "https://quiz-app-2n35.vercel.app/",
     git: "https://github.com/Emmilex20/Quiz-app",
     src: quiz,
+  },
+  {
+    title: "Image Carousel",
+    desc: "I built a fully responsive and visually engaging Image Slider component using React and Tailwind CSS. It features smooth fade transitions, clickable thumbnails, descriptive captions, and intuitive navigation with arrows and dots. The slider also supports swipe gestures on mobile devices, ensuring a seamless user experience across all screen sizes. This project highlights clean React hooks usage, elegant Tailwind styling, and attention to both performance and usability.",
+    devStack: "React, TailwindCSS",
+    link: "https://image-slider-hazel.vercel.app/",
+    git: "https://github.com/Emmilex20/image-slider",
+    src: imageCarousel,
   },
   {
     title: "E-commerce Hair Products",
