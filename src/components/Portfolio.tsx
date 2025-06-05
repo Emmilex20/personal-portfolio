@@ -11,6 +11,7 @@ import calculator from "../assets/calculator.jpg"
 import quiz from "../assets/quiz.jpg"
 import clock from "../assets/clock.jpg"
 import imageCarousel from "../assets/imageCarousel.png"
+import recipe from "../assets/recipe.jpg"
 
 const projects = [
   {
@@ -36,6 +37,14 @@ const projects = [
     link: "https://quiz-app-2n35.vercel.app/",
     git: "https://github.com/Emmilex20/Quiz-app",
     src: quiz,
+  },
+  {
+    title: "Recipe Search App",
+    desc: "Recipe Search App is a sleek and responsive web application that allows users to search for meals, view detailed recipes with ingredients, and explore dishes by category. Built with React, Vite, Tailwind CSS, and TheMealDB API, it features live search suggestions, category filtering, and local search history for a seamless user experience. The app also includes visually engaging recipe cards, a modern UI, and a clean footer with social links—designed to be both functional and visually appealing.",
+    devStack: "React, TailwindCSS",
+    link: "https://recipe-search-rose.vercel.app/",
+    git: "https://github.com/Emmilex20/Recipe-Search",
+    src: recipe,
   },
   {
     title: "Image Carousel",
