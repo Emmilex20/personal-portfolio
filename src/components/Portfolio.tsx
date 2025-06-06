@@ -12,6 +12,7 @@ import quiz from "../assets/quiz.jpg"
 import clock from "../assets/clock.jpg"
 import imageCarousel from "../assets/imageCarousel.png"
 import recipe from "../assets/recipe.jpg"
+import movie from "../assets/movie.png"
 
 const projects = [
   {
@@ -45,6 +46,14 @@ const projects = [
     link: "https://recipe-search-rose.vercel.app/",
     git: "https://github.com/Emmilex20/Recipe-Search",
     src: recipe,
+  },
+  {
+    title: "Movie App",
+    desc: "Movie Explorer is a responsive web application that allows users to search, browse, and favorite movies seamlessly. Powered by the TMDb API, it features dynamic filtering by genre, pagination, dark mode support, and local storage-based favorites management. Designed with a clean, modern UI and accessibility in mind, Movie Explorer offers an engaging user experience across all devices.",
+    devStack: "React, TailwindCSS",
+    link: "https://emmy-movie-app.vercel.app/",
+    git: "https://github.com/Emmilex20/Emmy-Movie-App",
+    src: movie,
   },
   {
     title: "Image Carousel",
