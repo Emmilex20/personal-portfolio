@@ -13,6 +13,7 @@ import clock from "../assets/clock.jpg"
 import imageCarousel from "../assets/imageCarousel.png"
 import recipe from "../assets/recipe.jpg"
 import movie from "../assets/movie.png"
+import blog from "../assets/blog.jpg"
 
 const projects = [
   {
@@ -30,6 +31,14 @@ const projects = [
     link: "https://digital-clock-timer-five.vercel.app/",
     git: "https://github.com/Emmilex20/Digital-clock-timer",
     src: clock,
+  },
+  {
+    title: "CodeWhiz Chronicles",
+    desc: "This is a modern full-stack blog application built with React (Vite) for a dynamic and responsive frontend, deployed on Vercel. The robust backend, hosted on Render, is powered by Node.js and Express.js, leveraging MongoDB for data persistence. It features secure user authentication with JWT, enabling functionalities like user registration, login, and comprehensive content management, including creating, editing, and deleting blog posts. The project demonstrates a strong understanding of API design, cross-origin resource sharing (CORS) configuration, and seamless integration between frontend and backend services to deliver a complete and functional web experience.",
+    devStack: "Vite, React, MongoDB, etc.",
+    link: "https://blog-client-rust.vercel.app/",
+    git: "https://github.com/Emmilex20/blog-client",
+    src: blog,
   },
   {
     title: "Quiz App",
